@@ -1,0 +1,19 @@
+.greeting{
+    margin-top: 50px;
+}
+.greeting img{
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.imgWelcome{
+    background-image: url("../../img/Wolf_Logo.png");
+    background-size: 100%;
+    background-position: center;
+    width: 100%;
+    min-height: 1024px;
+    margin-top: 50px;
+    border-radius: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
